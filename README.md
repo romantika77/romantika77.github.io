@@ -1,1 +1,1 @@
-# romantika77.github.io
+Адаптивный макет Седона, сделан на обучающем курсе "Продвинутый HTML и CSS" в HTMLAcademy
